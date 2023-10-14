@@ -1,4 +1,4 @@
-![Logo of Code Refuge (750 x 250 px)](https://github.com/code-refuge/.github/assets/5152197/16e3d0ae-6e94-4fee-bd17-c92a4e0484ed)
+![Logo refuge code (2560 x 1024 px)](https://github.com/code-refuge/.github/assets/5152197/e090727e-ee10-4aca-ad53-a85cd3a7256e)
 
 ## Join the Journey
 
